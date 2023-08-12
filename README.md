@@ -1,4 +1,6 @@
 # MED-VET **Versão Inicial**...
+# **Haverá Atualização da descrição ao decorrer do Projeto**
+
 **DESCRIÇÃO DO PROJETO**
 Solução **ERP - Planejamento dos Recursos da Empresa (Solução Integrada)** para administração de clínica veterinária de pequeno e médio porte. Com o objetivo de solucionar e gerenciar pequenas rotinas diárias de um consultório, Desde a marcação de consultas a controle de histórico, alertas de vacinação e controle de estoque e faturamento.
 
@@ -51,9 +53,10 @@ Solução **ERP - Planejamento dos Recursos da Empresa (Solução Integrada)** p
 
 ## Equipe 
 
-- @jviitsm - João Victor Modesto
+
 - @kleyton032 - Kleyton João 
-- @sergiobsilva - Sérgio Bezerra da Silva
+- @athurbo1 - Arthur Botelho
+- @mateuscdomingos - Mateus Domingos
 
 ## Interessados?
 ### Contribuir
